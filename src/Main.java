@@ -37,5 +37,5 @@ public class Main
         }
         System.out.println("ไก่ย่าง"+menu1+"\n"+"น้ำเปล่า"+menu2+"\n"+"หมูทอด"+menu3+"\n"+"เป็ดย่าง"+menu4+"\n");
     }
-}
+}//1
 
